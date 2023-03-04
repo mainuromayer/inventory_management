@@ -1,0 +1,70 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #f2f2f2;
+}
+
+
+.bg-custom{
+    background-color: #035247;
+}
+.bg-custom:hover{
+    background-color: #011d19;
+}
+.text-custom{
+    color:#035247;
+}
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1em;
+    font-weight: 300;
+    color: #9e9d9d;
+}
+
+a,
+a:hover,
+a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.menu-height {
+    max-height: 620px;
+}
+
+.menu-height h3 {
+    font-weight: 500;
+}
+
+.menu-height form h1 {
+    font-weight: 500;
+}
+
+.my-menu img {
+    max-height: 620px;
+}
+
+.my-menu {
+    height: 100%;
+}
+
+.content-1 {
+    background-color: #035247;
+}
+
+.content-2 p {
+	position: relative;
+	top: 474px;
+	left: 5px;
+	font-size: 1rem;
+	color: #9e9d9d;
+}
+
+.social_icon a {
+    padding: 10px 15px;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 1px solid #c4bfbf;
+}
+
